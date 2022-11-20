@@ -1,0 +1,20 @@
+---
+title: "Rest Post 3"
+date: "June 24 2021"
+excerpt: "Sans vouloir la ramener la seule différence concrète avec les briques c’est que vous appelez ça des tartes. Mais qu’est c’que ça peut vous foutre, de toute façon, c’est pas vous qui l’avez faite, si? Ouais mais nous on change de coin, et quand ils arrivent là, ils sont pinés, il y a personne.Vous binez pas… Même nous on a pas tout compris. Y a quand même pas cinquante trucs à retenir bon sang! Animaux de la forêt! Auw auw ouh, woh woh woh woh, auw aouh! C’est quand même magnifique une armée bien coordonnée, hein!"
+cover_image: '/images/posts/img3.jpg'
+
+---
+
+Sans vouloir la ramener la seule différence concrète avec les briques c’est que vous appelez ça des tartes. Mais qu’est c’que ça peut vous foutre, de toute façon, c’est pas vous qui l’avez faite, si? Ouais mais nous on change de coin, et quand ils arrivent là, ils sont pinés, il y a personne.
+
+Vous binez pas… Même nous on a pas tout compris. Y a quand même pas cinquante trucs à retenir bon sang! Animaux de la forêt! Auw auw ouh, woh woh woh woh, auw aouh! C’est quand même magnifique une armée bien coordonnée, hein!
+
+Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? 
+Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? 
+
+Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? 
+
+Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? 
+
+Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? Qu’est ce que j’ai dit? Une connerie? Ca vous emmerde ce que j’raconte? Mais Attila vous y attend, Sire! Attila! Le Fléau de Dieu! Léodagan et moi on fait semblant de vous prendre en otage. Non mais c’est dingue cette histoire! C’est pas parce que vous faites des tartes pour des petits enfants qui existent pas que je dois les amener à la pêche, non? 

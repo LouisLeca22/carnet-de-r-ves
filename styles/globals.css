@@ -1,26 +1,39 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+:root {
+    --primary-color-1: hsl(245, 65%, 59%);
+    --primary-color-2:  hsl(245, 80%, 74%);
+    --primary-color-3: hsl(245, 94%, 87%);
+    --primary-color-4: hsl(245, 87%, 94%);
+
+
+    --grey-1: hsl(209, 61%, 16%);
+    --grey-2: hsl(209, 34%, 30%);
+    --grey-3: hsl(209, 28%, 39%);
+
+    --clr-white: #fff;
+    --clr-black: #242526;
+  }
+
+
+body{
+    font-family: 'Poppins';
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+body.dark{
+    background-color: var(--clr-black);
+    color: var(--primary-color-4);
+}
+
+p{
+    margin: 1rem;
 }
