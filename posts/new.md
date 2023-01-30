@@ -1,5 +1,5 @@
 ---
-title: "Rest Post 1"
+title: "Aux confins de la réalité"
 date: "June 24 2022"
 excerpt: "Sans vouloir la ramener la seule différence concrète avec les briques c’est que vous appelez ça des tartes. Mais qu’est c’que ça peut vous foutre, de toute façon, c’est pas vous qui l’avez faite, si? Ouais mais nous on change de coin, et quand ils arrivent là, ils sont pinés, il y a personne."
 cover_image: '/images/posts/img1.jpg'
